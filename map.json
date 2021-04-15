@@ -880,7 +880,7 @@
         }, 
         {
          "firstgid":257,
-         "source":"floortileset.tsx"
+         "source":"floortileset.json"
         }],
  "tilewidth":32,
  "type":"map",
