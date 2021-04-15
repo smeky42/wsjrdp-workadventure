@@ -35,9 +35,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Floor1\/floor1.json"
+                 "value":"campground.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"2021.03.23",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
