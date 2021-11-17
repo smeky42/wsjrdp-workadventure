@@ -46,9 +46,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"orgazelt"
+                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_ZDYxMjY4ODEtNTg4Ni00OGFhLWEyZTEtM2E2MmQ3ZmFlZDUz%40thread.v2\/0?context=%7b%22Tid%22%3a%22cf244fbf-4d4f-45e2-b8c4-141163686fd0%22%2c%22Oid%22%3a%2291cab8b7-7b49-4d1c-a4db-9b5a5795d100%22%7d"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ktu.ulworldscoutjamboree.de"
+                 "value":"https:\/\/ktul.worldscoutjamboree.de"
                 }],
          "type":"tilelayer",
          "visible":true,
