@@ -46,9 +46,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/ktul.worldscoutjamboree.de\/plenum"
+                 "value":"info"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
