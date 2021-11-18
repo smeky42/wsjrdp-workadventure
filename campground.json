@@ -531,7 +531,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ktul.worldscoutjamboree.de"
+                 "value":"https:\/\/ktul.worldscoutjamboree.de\/info"
                 }],
          "type":"tilelayer",
          "visible":true,
